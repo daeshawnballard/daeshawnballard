@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daeshawnballard
-- 👀 I’m interested in Swift, web3(Polygon, Solana, &  NFTs), and AR
-- 🌱 I’m currently learning Swift, Scrum, and about NFTs
-- 💞️ I’m looking to collaborate on combining swift with web3 technologies
+- 👀 I’m interested in Front-end, Web3, NFTs, Swift, and AR technologies 
+- 🌱 I’m currently learning to build Web3 dApps with Buildspace
+- 💞️ I would love to combine my passion for technology and interest in Web3
 - 📫 How to reach me @daeshawnballard on Twitter
 
 <!---
