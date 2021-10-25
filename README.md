@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daeshawnballard
-- 👀 I’m interested in Front-end, Web3, NFTs, Swift, and AR technologies 
+- 👀 I’m interested in Front-end, Web3, NFTs, and Swift technologies 
 - 🌱 I’m currently learning to build Web3 dApps with Buildspace
 - 💞️ I would love to combine my passion for technology and interest in Web3
 - 📫 How to reach me @daeshawnballard on Twitter
