@@ -1,6 +1,6 @@
 👋 Hi, I’m Daeshawn.sol
 
-🧠 Product leader building at the intersection of AI and blockchain technology  
+🧠 Technical Product Leader building at the intersection of AI and usefulness
 🛠️ Currently building, staying curious, and open to aligned opportunities  
 📫 X/Twitter: @daeshawn
 <!---
