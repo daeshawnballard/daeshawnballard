@@ -1,4 +1,4 @@
-👋 Hi, I’m Daeshawn.sol
+👋 Hi, I’m Daeshawn
 
 🧠 Technical Product Leader building at the intersection of AI and usefulness
 🛠️ Currently building, staying curious, and open to aligned opportunities  
